@@ -12,7 +12,7 @@ local ESPConnection = nil
 local Drawings = {}
 
 local Config = {
-    MaxDistance = 2000,
+    MaxDistance = 1000,
     Key = Enum.KeyCode.T,
 }
 
